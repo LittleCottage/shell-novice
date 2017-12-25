@@ -658,7 +658,7 @@ about them."
 > {: .solution}
 {: .challenge}
 
-> ## Tracking a Species
+> 
 > 
 > Leah has several hundred 
 > data files saved in one directory, each of which is formatted like this:
@@ -717,7 +717,7 @@ about them."
 > {: .solution}
 {: .challenge}
 
-> ## Little Women
+> 
 >
 > You and your friend, having just finished reading *Little Women* by
 > Louisa May Alcott, are in an argument.  Of the four sisters in the
